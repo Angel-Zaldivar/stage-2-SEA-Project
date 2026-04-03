@@ -26,9 +26,9 @@ This repository contains the instructions, requirements, and starter code for St
 ## ✅ Requirements - Your Catalog Website Should...
 
 - Show off your understanding of basic data structures: [**arrays**](https://www.w3schools.com/js/js_arrays.asp) and [**objects**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_objects).
-- Display a **substantial amount of interesting data** in a "catalog". You can look online for datasets or create your own. Make sure you import the data yourself and are not fetching an API.  
-  Your data should be easy to find in your source code—either in variables at the top of `scripts.js` or imported from a file.
-- Include **two or more features** that **operate** on your data and modify how it's displayed. Examples:
+- Display a **substantial amount of interesting data** in a "catalog". You can look online for datasets or create your own. Make sure you import the data yourself and are not fetching an API.
+  - Your data should be easy to find in your source code—either in variables at the top of `scripts.js` or imported from a file.
+- Include **two or more features** that **operate** on your data and modify how it's displayed. Examples of features that operate on your data are:
   - Filtering
   - Searching
   - Sorting
@@ -45,17 +45,24 @@ This repository contains the instructions, requirements, and starter code for St
 ## 🛠️ Getting Started
 
 1. [**Create a GitHub account**](https://github.com/) if you haven't already.
-2. Click the green **"Use as Template"** button in the upper right corner, then choose **"Create a new repository"**:  
-   a. Choose yourself as the owner  
-   b. Give your repository a name  
-   c. Click **"Create Repository"**
+2. Click the blue **"Use as Template"** button in the upper right corner, then choose **"Create a new repository"**:  
+   <img height="300" alt="Screenshot of catalog example" src="./assets/templateArrow.png">
+   Then :
+
+   2a. Choose yourself as the owner (aka your github account)
+   <br>
+   2b. Give your repository a name
+   <br>
+   2c. Click **"Create Repository"**
+
 3. Copy or download the files to your own computer.
-4. Open and edit the website using a text editor:
+4. Open and edit the code using a text editor or an IDE, a popular IDE is [vsCode](https://code.visualstudio.com/):
+   - Take your time and read the files, read the comments as they are intended to guide you!
    - Modify `index.html`, `style.css`, and `scripts.js`.
    - To preview, open `index.html` in a web browser (double-click it).
    - You should see something like this:
 
-<img height="300" alt="Screenshot of catalog example" src="https://github.com/Snap-Engineering-Academy-2023/rn_lab1/assets/7607483/fdd57236-50fe-48ca-956d-d9b4b12db038">
+<img  alt="Screenshot of use template button location" src="https://github.com/Snap-Engineering-Academy-2023/rn_lab1/assets/7607483/fdd57236-50fe-48ca-956d-d9b4b12db038">
 
 ---
 
@@ -66,7 +73,7 @@ This repository contains the instructions, requirements, and starter code for St
 2. **Test the published version.**  
    Make sure everything works properly before submitting.
 3. **Update your GitHub repository** so it reflects the latest version of your project.
-4. **Submit** both:
+4. **Submit** BOTH:
    - The **URL** to your published website
    - The **link** to your GitHub repository  
      …via the Google Form linked in your email.
@@ -129,4 +136,4 @@ If you really want to use data from an API, **save it to a file** (like `.json` 
 
 ---
 
-> 💬 **Have any questions?** Drop them on the [Padlet here](https://padlet.com/arlenschallenge/2025-snap-engineering-academy-stage-2-project-assessment-que-ndmqkef3wxt8sh72) and we'll get back to you!
+> 💬 **Have any questions?** Drop them on the [Padlet here](https://padlet.com/arlenschallenge/2026-snap-engineering-academy-stage-2-project-assessment-que-9oux20x1z3g8lyyd) and we'll get back to you!
